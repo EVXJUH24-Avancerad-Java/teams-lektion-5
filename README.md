@@ -71,3 +71,29 @@ Skulle du vilja börja ställa lite frågor till klassen under genomgångar / re
 # Svar
 
 Tack för förslaget! Vi kan diskutera detta.
+
+---
+
+# Fråga
+
+Kravet för den individuella uppgiften: 
+- Använd git för versionshantering
+   - Försök att skapa mindre-medium stora commits, detta är dock inte ett hårt krav
+
+Hur ska det redovisas?
+
+# Svar
+
+Det är ingen redovisning på själva uppgiften.
+
+När det kommer till commit-storlek så kan jag se storleken på GitHub när ni skickar upp länken till repot.
+
+---
+
+# Fråga
+
+Liksom i förra kursen, kommer vi att ha en deadline för feedback-tillfälle i denna kurs?
+
+# Svar
+
+Vi kommer att ha feedback-tillfälle den sista lektionen, likt förra kursen.

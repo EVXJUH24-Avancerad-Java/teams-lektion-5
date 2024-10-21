@@ -76,6 +76,8 @@ public class Main {
 
         int sumOfAges = sumOfAges(people);
         System.out.println(sumOfAges);
+
+        // GENERICS ----
     }
 
     public static class MyLambda implements Runnable {
